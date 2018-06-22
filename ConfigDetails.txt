@@ -1,0 +1,5 @@
+Steps to run:
+
+- Modify home path of feature file and step definition(glue) in TestRunner.java class
+- Modify the location of driver.exe files in the BaseClass.java
+- Modify the properties file location under FileInpuStream in BaseClass.java
